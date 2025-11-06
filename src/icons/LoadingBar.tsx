@@ -1,7 +1,7 @@
 export default function LoadingBar() {
   return (
     <svg width='240' height='63' viewBox='0 0 240 63' fill='none' xmlns='http://www.w3.org/2000/svg'>
-      <rect x='19.0334' y='38.4834' width='27.0603' height='7.61072' fill='#391998' />
+      <rect x='19.0334' y='38.4834' width='27.0603' height='7.61072' fill='#7C3AED' />
       <rect x='218.181' y='19.4565' width='3.80536' height='22.8322' fill='#7C6EB1' />
       <rect width='3.80536' height='22.8322' transform='matrix(-1 0 0 1 19.0334 19.4565)' fill='#7C6EB1' />
       <rect x='214.375' y='15.2285' width='3.80536' height='27.0603' fill='#7C6EB1' />
@@ -44,9 +44,9 @@ export default function LoadingBar() {
       <rect x='50.322' y='15.2285' width='30.8657' height='23.255' fill='#7652E1' />
       <rect x='85.4158' y='15.2285' width='30.8657' height='23.255' fill='#7652E1' />
       <rect x='120.51' y='15.2285' width='30.8657' height='23.255' fill='#7652E1' />
-      <rect x='50.322' y='38.4834' width='30.8657' height='7.61072' fill='#391998' />
-      <rect x='85.4158' y='38.4834' width='30.8657' height='7.61072' fill='#391998' />
-      <rect x='120.51' y='38.4834' width='30.8657' height='7.61072' fill='#391998' />
+      <rect x='50.322' y='38.4834' width='30.8657' height='7.61072' fill='#7C3AED' />
+      <rect x='85.4158' y='38.4834' width='30.8657' height='7.61072' fill='#7C3AED' />
+      <rect x='120.51' y='38.4834' width='30.8657' height='7.61072' fill='#7C3AED' />
       <rect x='155.604' y='38.4834' width='30.8657' height='7.61072' fill='#7C6EB1' />
       <rect x='191.12' y='38.4834' width='27.0603' height='7.61072' fill='#7C6EB1' />
     </svg>

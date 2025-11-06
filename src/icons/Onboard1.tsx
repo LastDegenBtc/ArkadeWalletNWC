@@ -3,31 +3,31 @@ function OnboardImage1Dark() {
     <svg style={{ width: '100%' }} viewBox='0 0 390 493' fill='none' xmlns='http://www.w3.org/2000/svg'>
       <g clipPath='url(#clip0_3383_11459)'>
         <g opacity='0.6'>
-          <rect opacity='0.5' x='178.417' y='73.5273' width='52.0273' height='52.0273' stroke='#391998' />
-          <rect opacity='0.5' x='284.032' y='20.5' width='52.0273' height='52.0273' stroke='#391998' />
-          <rect opacity='0.5' x='284.032' y='126.554' width='52.0273' height='52.0273' stroke='#391998' />
-          <rect opacity='0.5' x='337.058' y='126.554' width='52.0273' height='52.0273' stroke='#391998' />
-          <rect opacity='0.5' x='125.5' y='179.503' width='52.0273' height='52.0273' stroke='#391998' />
-          <rect x='231.446' y='73.5273' width='52.0273' height='52.0273' stroke='#391998' />
-          <rect x='231.446' y='126.554' width='52.0273' height='52.0273' stroke='#391998' />
+          <rect opacity='0.5' x='178.417' y='73.5273' width='52.0273' height='52.0273' stroke='#7C3AED' />
+          <rect opacity='0.5' x='284.032' y='20.5' width='52.0273' height='52.0273' stroke='#7C3AED' />
+          <rect opacity='0.5' x='284.032' y='126.554' width='52.0273' height='52.0273' stroke='#7C3AED' />
+          <rect opacity='0.5' x='337.058' y='126.554' width='52.0273' height='52.0273' stroke='#7C3AED' />
+          <rect opacity='0.5' x='125.5' y='179.503' width='52.0273' height='52.0273' stroke='#7C3AED' />
+          <rect x='231.446' y='73.5273' width='52.0273' height='52.0273' stroke='#7C3AED' />
+          <rect x='231.446' y='126.554' width='52.0273' height='52.0273' stroke='#7C3AED' />
           <rect
             x='336.058'
             y='73.5273'
             width='52.0273'
             height='52.0273'
             transform='rotate(90 336.058 73.5273)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
-          <rect x='178.417' y='126.554' width='52.0273' height='52.0273' stroke='#391998' />
-          <rect x='284.032' y='179.582' width='52.0273' height='52.0273' stroke='#391998' />
-          <rect x='178.417' y='179.582' width='52.0273' height='52.0273' stroke='#391998' />
+          <rect x='178.417' y='126.554' width='52.0273' height='52.0273' stroke='#7C3AED' />
+          <rect x='284.032' y='179.582' width='52.0273' height='52.0273' stroke='#7C3AED' />
+          <rect x='178.417' y='179.582' width='52.0273' height='52.0273' stroke='#7C3AED' />
           <rect
             x='283.032'
             y='20.5'
             width='52.0273'
             height='52.0273'
             transform='rotate(90 283.032 20.5)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             x='389.085'
@@ -35,7 +35,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(90 389.085 20.5)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
         </g>
         <g opacity='0.6'>
@@ -46,7 +46,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(180 166.168 415.582)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             opacity='0.5'
@@ -55,7 +55,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(180 60.5532 468.609)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             opacity='0.5'
@@ -64,7 +64,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(180 60.5532 362.554)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             opacity='0.5'
@@ -73,7 +73,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(180 7.52722 362.554)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             opacity='0.5'
@@ -82,7 +82,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(180 219.085 309.605)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             x='113.139'
@@ -90,7 +90,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(180 113.139 415.582)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             x='113.139'
@@ -98,7 +98,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(180 113.139 362.554)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             x='8.52722'
@@ -106,7 +106,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(-90 8.52722 415.582)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             x='166.168'
@@ -114,7 +114,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(180 166.168 362.554)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             x='60.5532'
@@ -122,7 +122,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(180 60.5532 309.527)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             x='166.168'
@@ -130,7 +130,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(180 166.168 309.527)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             x='61.5532'
@@ -138,7 +138,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(-90 61.5532 468.609)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
           <rect
             x='-44.5'
@@ -146,7 +146,7 @@ function OnboardImage1Dark() {
             width='52.0273'
             height='52.0273'
             transform='rotate(-90 -44.5 468.609)'
-            stroke='#391998'
+            stroke='#7C3AED'
           />
         </g>
         <path
@@ -3160,7 +3160,7 @@ function OnboardImage1Light() {
           width='17.561'
           height='4.39024'
           transform='rotate(-105.716 46.4916 294.438)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3169,7 +3169,7 @@ function OnboardImage1Light() {
           width='17.561'
           height='4.39024'
           transform='rotate(164.284 66.5096 265.088)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3178,7 +3178,7 @@ function OnboardImage1Light() {
           width='17.561'
           height='4.39024'
           transform='rotate(164.284 75.0719 295.517)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3187,7 +3187,7 @@ function OnboardImage1Light() {
           width='5.26829'
           height='5.26829'
           transform='rotate(164.284 56.9783 296.047)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3196,7 +3196,7 @@ function OnboardImage1Light() {
           width='5.26829'
           height='5.26829'
           transform='rotate(164.284 51.0322 274.917)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3205,7 +3205,7 @@ function OnboardImage1Light() {
           width='5.26829'
           height='5.26829'
           transform='rotate(164.284 78.954 289.863)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3214,7 +3214,7 @@ function OnboardImage1Light() {
           width='5.26829'
           height='5.26829'
           transform='rotate(164.284 73.0079 268.733)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3223,7 +3223,7 @@ function OnboardImage1Light() {
           width='17.561'
           height='4.39024'
           transform='rotate(-105.716 76.9196 285.875)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -3244,7 +3244,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-64.0372 143.319 306.068)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3253,7 +3253,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-154.037 162.426 301.295)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3262,7 +3262,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-154.037 154.754 317.049)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3271,7 +3271,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(-154.037 147.068 310.6)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3280,7 +3280,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(-154.037 152.395 299.66)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3289,7 +3289,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(-154.037 158.446 316.14)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3298,7 +3298,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(-154.037 163.773 305.2)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3307,7 +3307,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-64.0372 159.073 313.739)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -3328,7 +3328,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-101.393 115.186 407.495)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3337,7 +3337,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(168.607 127.477 392.109)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3346,7 +3346,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(168.607 130.938 409.286)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3355,7 +3355,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(168.607 120.915 408.823)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3364,7 +3364,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(168.607 118.511 396.895)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3373,7 +3373,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(168.607 133.321 406.324)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3382,7 +3382,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(168.607 130.917 394.395)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3391,7 +3391,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-101.393 132.363 404.034)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -3412,7 +3412,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-48.5858 181.081 360.169)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3421,7 +3421,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-138.586 200.768 360.66)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3430,7 +3430,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-138.586 189.177 373.801)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3439,7 +3439,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(-138.586 183.487 365.536)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3448,7 +3448,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(-138.586 191.536 356.41)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3457,7 +3457,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(-138.586 192.977 373.907)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3466,7 +3466,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(-138.586 201.026 364.782)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3475,7 +3475,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-48.5858 194.222 371.76)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -3496,7 +3496,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-48.5858 281.441 347.042)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3505,7 +3505,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-138.586 301.128 347.533)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3514,7 +3514,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-138.586 289.537 360.674)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3523,7 +3523,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(-138.586 283.846 352.409)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3532,7 +3532,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(-138.586 291.896 343.283)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3541,7 +3541,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(-138.586 293.337 360.78)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3550,7 +3550,7 @@ function OnboardImage1Light() {
           width='2.92039'
           height='2.92039'
           transform='rotate(-138.586 301.386 351.655)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3559,7 +3559,7 @@ function OnboardImage1Light() {
           width='9.73465'
           height='2.43366'
           transform='rotate(-48.5858 294.582 358.633)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -3580,7 +3580,7 @@ function OnboardImage1Light() {
           width='11.7322'
           height='2.93306'
           transform='rotate(-158.858 242.778 300.865)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3589,7 +3589,7 @@ function OnboardImage1Light() {
           width='11.7322'
           height='2.93306'
           transform='rotate(111.142 235.111 278.403)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3598,7 +3598,7 @@ function OnboardImage1Light() {
           width='11.7322'
           height='2.93306'
           transform='rotate(111.142 254.808 286.02)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3607,7 +3607,7 @@ function OnboardImage1Light() {
           width='3.51967'
           height='3.51967'
           transform='rotate(111.142 247.841 295.904)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3616,7 +3616,7 @@ function OnboardImage1Light() {
           width='3.51967'
           height='3.51967'
           transform='rotate(111.142 234.163 290.615)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3625,7 +3625,7 @@ function OnboardImage1Light() {
           width='3.51967'
           height='3.51967'
           transform='rotate(111.142 253.342 281.68)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3634,7 +3634,7 @@ function OnboardImage1Light() {
           width='3.51967'
           height='3.51967'
           transform='rotate(111.142 239.664 276.39)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3643,7 +3643,7 @@ function OnboardImage1Light() {
           width='11.7322'
           height='2.93306'
           transform='rotate(-158.858 250.395 281.168)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -3664,7 +3664,7 @@ function OnboardImage1Light() {
           width='11.7322'
           height='2.93306'
           transform='rotate(-158.858 120.081 192.854)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3673,7 +3673,7 @@ function OnboardImage1Light() {
           width='11.7322'
           height='2.93306'
           transform='rotate(111.142 112.415 170.392)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3682,7 +3682,7 @@ function OnboardImage1Light() {
           width='11.7322'
           height='2.93306'
           transform='rotate(111.142 132.111 178.008)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3691,7 +3691,7 @@ function OnboardImage1Light() {
           width='3.51967'
           height='3.51967'
           transform='rotate(111.142 125.144 187.893)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3700,7 +3700,7 @@ function OnboardImage1Light() {
           width='3.51967'
           height='3.51967'
           transform='rotate(111.142 111.466 182.604)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3709,7 +3709,7 @@ function OnboardImage1Light() {
           width='3.51967'
           height='3.51967'
           transform='rotate(111.142 130.645 173.668)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3718,7 +3718,7 @@ function OnboardImage1Light() {
           width='3.51967'
           height='3.51967'
           transform='rotate(111.142 116.967 168.378)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3727,7 +3727,7 @@ function OnboardImage1Light() {
           width='11.7322'
           height='2.93306'
           transform='rotate(-158.858 127.698 173.157)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -3748,7 +3748,7 @@ function OnboardImage1Light() {
           width='15.9234'
           height='3.98084'
           transform='rotate(-135.044 175.983 137.948)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3757,7 +3757,7 @@ function OnboardImage1Light() {
           width='15.9234'
           height='3.98084'
           transform='rotate(134.956 178.773 105.856)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3766,7 +3766,7 @@ function OnboardImage1Light() {
           width='15.9234'
           height='3.98084'
           transform='rotate(134.956 199.056 126.108)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3775,7 +3775,7 @@ function OnboardImage1Light() {
           width='4.77701'
           height='4.77701'
           transform='rotate(134.956 184.988 134.563)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3784,7 +3784,7 @@ function OnboardImage1Light() {
           width='4.77701'
           height='4.77701'
           transform='rotate(134.956 170.903 120.5)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3793,7 +3793,7 @@ function OnboardImage1Light() {
           width='4.77701'
           height='4.77701'
           transform='rotate(134.956 199.614 119.915)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3802,7 +3802,7 @@ function OnboardImage1Light() {
           width='4.77701'
           height='4.77701'
           transform='rotate(134.956 185.529 105.851)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3811,7 +3811,7 @@ function OnboardImage1Light() {
           width='15.9234'
           height='3.98084'
           transform='rotate(-135.044 196.235 117.665)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -3832,7 +3832,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(-125.716 227.607 182.413)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3841,7 +3841,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(144.284 232.494 163.238)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3850,7 +3850,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(144.284 242.772 177.533)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3859,7 +3859,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(144.284 233.403 181.258)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3868,7 +3868,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(144.284 226.265 171.331)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3877,7 +3877,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(144.284 243.727 173.834)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3886,7 +3886,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(144.284 236.59 163.907)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3895,7 +3895,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(-125.716 241.903 172.134)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -3916,7 +3916,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(-125.716 302.368 293.605)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3925,7 +3925,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(144.284 307.255 274.431)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3934,7 +3934,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(144.284 317.533 288.726)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3943,7 +3943,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(144.284 308.163 292.451)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3952,7 +3952,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(144.284 301.026 282.523)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3961,7 +3961,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(144.284 318.488 285.027)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3970,7 +3970,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(144.284 311.35 275.1)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -3979,7 +3979,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(-125.716 316.663 283.327)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -4000,7 +4000,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(-133.091 304.259 195.139)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4009,7 +4009,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(136.909 306.644 175.495)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4018,7 +4018,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(136.909 318.672 188.353)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4027,7 +4027,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(136.909 309.858 193.25)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4036,7 +4036,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(136.909 301.505 184.32)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4045,7 +4045,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(136.909 319.144 184.562)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4054,7 +4054,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(136.909 310.791 175.633)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4063,7 +4063,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(-133.091 317.116 183.11)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -4084,7 +4084,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(-133.091 290.15 141.248)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4093,7 +4093,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(136.909 292.535 121.604)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4102,7 +4102,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(136.909 304.563 134.462)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4111,7 +4111,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(136.909 295.749 139.358)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4120,7 +4120,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(136.909 287.396 130.429)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4129,7 +4129,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(136.909 305.035 130.671)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4138,7 +4138,7 @@ function OnboardImage1Light() {
           width='2.93448'
           height='2.93448'
           transform='rotate(136.909 296.682 121.742)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4147,7 +4147,7 @@ function OnboardImage1Light() {
           width='9.78159'
           height='2.4454'
           transform='rotate(-133.091 303.008 129.219)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -4168,7 +4168,7 @@ function OnboardImage1Light() {
           width='12.5964'
           height='3.14911'
           transform='rotate(152.124 278.569 243.515)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4177,7 +4177,7 @@ function OnboardImage1Light() {
           width='12.5964'
           height='3.14911'
           transform='rotate(62.1237 254.965 233.913)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4186,7 +4186,7 @@ function OnboardImage1Light() {
           width='12.5964'
           height='3.14911'
           transform='rotate(62.1237 275.007 223.312)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4195,7 +4195,7 @@ function OnboardImage1Light() {
           width='3.77893'
           height='3.77893'
           transform='rotate(62.1237 278.113 235.918)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4204,7 +4204,7 @@ function OnboardImage1Light() {
           width='3.77893'
           height='3.77893'
           transform='rotate(62.1237 264.195 243.281)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4213,7 +4213,7 @@ function OnboardImage1Light() {
           width='3.77893'
           height='3.77893'
           transform='rotate(62.1237 270.457 221.443)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4222,7 +4222,7 @@ function OnboardImage1Light() {
           width='3.77893'
           height='3.77893'
           transform='rotate(62.1237 256.539 228.806)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4231,7 +4231,7 @@ function OnboardImage1Light() {
           width='12.5964'
           height='3.14911'
           transform='rotate(152.124 267.967 223.473)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -4252,7 +4252,7 @@ function OnboardImage1Light() {
           width='7.85789'
           height='1.96447'
           transform='rotate(-158.858 66.6041 236.926)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4261,7 +4261,7 @@ function OnboardImage1Light() {
           width='7.85789'
           height='1.96447'
           transform='rotate(111.142 61.4694 221.882)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4270,7 +4270,7 @@ function OnboardImage1Light() {
           width='7.85789'
           height='1.96447'
           transform='rotate(111.142 74.6615 226.983)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4279,7 +4279,7 @@ function OnboardImage1Light() {
           width='2.35737'
           height='2.35737'
           transform='rotate(111.142 69.995 233.604)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4288,7 +4288,7 @@ function OnboardImage1Light() {
           width='2.35737'
           height='2.35737'
           transform='rotate(111.142 60.834 230.061)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4297,7 +4297,7 @@ function OnboardImage1Light() {
           width='2.35737'
           height='2.35737'
           transform='rotate(111.142 73.6796 224.076)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4306,7 +4306,7 @@ function OnboardImage1Light() {
           width='2.35737'
           height='2.35737'
           transform='rotate(111.142 64.5184 220.534)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4315,7 +4315,7 @@ function OnboardImage1Light() {
           width='7.85789'
           height='1.96447'
           transform='rotate(-158.858 71.7056 223.734)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -4336,7 +4336,7 @@ function OnboardImage1Light() {
           width='22.2276'
           height='5.55689'
           transform='rotate(-105.716 168.25 251.166)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4345,7 +4345,7 @@ function OnboardImage1Light() {
           width='22.2276'
           height='5.55689'
           transform='rotate(164.284 193.588 214.018)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4354,7 +4354,7 @@ function OnboardImage1Light() {
           width='22.2276'
           height='5.55689'
           transform='rotate(164.284 204.425 252.532)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4363,7 +4363,7 @@ function OnboardImage1Light() {
           width='6.66827'
           height='6.66827'
           transform='rotate(164.284 181.524 253.204)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4372,7 +4372,7 @@ function OnboardImage1Light() {
           width='6.66827'
           height='6.66827'
           transform='rotate(164.284 173.997 226.458)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4381,7 +4381,7 @@ function OnboardImage1Light() {
           width='6.66827'
           height='6.66827'
           transform='rotate(164.284 209.339 245.376)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4390,7 +4390,7 @@ function OnboardImage1Light() {
           width='6.66827'
           height='6.66827'
           transform='rotate(164.284 201.813 218.631)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4399,7 +4399,7 @@ function OnboardImage1Light() {
           width='22.2276'
           height='5.55689'
           transform='rotate(-105.716 206.764 240.329)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4408,7 +4408,7 @@ function OnboardImage1Light() {
           width='17.561'
           height='4.39024'
           transform='rotate(-91.4108 62.9459 382.787)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4417,7 +4417,7 @@ function OnboardImage1Light() {
           width='17.561'
           height='4.39024'
           transform='rotate(178.589 89.5951 359.294)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4426,7 +4426,7 @@ function OnboardImage1Light() {
           width='17.561'
           height='4.39024'
           transform='rotate(178.589 90.3734 390.895)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4435,7 +4435,7 @@ function OnboardImage1Light() {
           width='5.26829'
           height='5.26829'
           transform='rotate(178.589 72.7096 386.938)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4444,7 +4444,7 @@ function OnboardImage1Light() {
           width='5.26829'
           height='5.26829'
           transform='rotate(178.589 72.1692 364.994)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4453,7 +4453,7 @@ function OnboardImage1Light() {
           width='5.26829'
           height='5.26829'
           transform='rotate(178.589 95.532 386.376)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4462,7 +4462,7 @@ function OnboardImage1Light() {
           width='5.26829'
           height='5.26829'
           transform='rotate(178.589 94.9915 364.432)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <rect
@@ -4471,7 +4471,7 @@ function OnboardImage1Light() {
           width='17.561'
           height='4.39024'
           transform='rotate(-91.4108 94.5461 382.009)'
-          fill='#391998'
+          fill='#7C3AED'
           fillOpacity='0.8'
         />
         <path
@@ -4760,8 +4760,8 @@ function OnboardImage1Light() {
           y2='284.374'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint1_linear_3383_11434'
@@ -4771,8 +4771,8 @@ function OnboardImage1Light() {
           y2='284.374'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint2_linear_3383_11434'
@@ -4782,8 +4782,8 @@ function OnboardImage1Light() {
           y2='284.374'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint3_linear_3383_11434'
@@ -4793,8 +4793,8 @@ function OnboardImage1Light() {
           y2='302.538'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint4_linear_3383_11434'
@@ -4804,8 +4804,8 @@ function OnboardImage1Light() {
           y2='302.538'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint5_linear_3383_11434'
@@ -4815,8 +4815,8 @@ function OnboardImage1Light() {
           y2='302.538'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint6_linear_3383_11434'
@@ -4826,8 +4826,8 @@ function OnboardImage1Light() {
           y2='402.005'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint7_linear_3383_11434'
@@ -4837,8 +4837,8 @@ function OnboardImage1Light() {
           y2='402.005'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint8_linear_3383_11434'
@@ -4848,8 +4848,8 @@ function OnboardImage1Light() {
           y2='402.005'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint9_linear_3383_11434'
@@ -4859,8 +4859,8 @@ function OnboardImage1Light() {
           y2='357.946'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint10_linear_3383_11434'
@@ -4870,8 +4870,8 @@ function OnboardImage1Light() {
           y2='357.946'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint11_linear_3383_11434'
@@ -4881,8 +4881,8 @@ function OnboardImage1Light() {
           y2='357.946'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint12_linear_3383_11434'
@@ -4892,8 +4892,8 @@ function OnboardImage1Light() {
           y2='344.819'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint13_linear_3383_11434'
@@ -4903,8 +4903,8 @@ function OnboardImage1Light() {
           y2='344.819'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint14_linear_3383_11434'
@@ -4914,8 +4914,8 @@ function OnboardImage1Light() {
           y2='344.819'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint15_linear_3383_11434'
@@ -4925,8 +4925,8 @@ function OnboardImage1Light() {
           y2='295.908'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint16_linear_3383_11434'
@@ -4936,8 +4936,8 @@ function OnboardImage1Light() {
           y2='295.908'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint17_linear_3383_11434'
@@ -4947,8 +4947,8 @@ function OnboardImage1Light() {
           y2='295.908'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint18_linear_3383_11434'
@@ -4958,8 +4958,8 @@ function OnboardImage1Light() {
           y2='187.896'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint19_linear_3383_11434'
@@ -4969,8 +4969,8 @@ function OnboardImage1Light() {
           y2='187.896'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint20_linear_3383_11434'
@@ -4980,8 +4980,8 @@ function OnboardImage1Light() {
           y2='187.896'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint21_linear_3383_11434'
@@ -4991,8 +4991,8 @@ function OnboardImage1Light() {
           y2='129.224'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint22_linear_3383_11434'
@@ -5002,8 +5002,8 @@ function OnboardImage1Light() {
           y2='129.224'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint23_linear_3383_11434'
@@ -5013,8 +5013,8 @@ function OnboardImage1Light() {
           y2='129.224'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint24_linear_3383_11434'
@@ -5024,8 +5024,8 @@ function OnboardImage1Light() {
           y2='176.816'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint25_linear_3383_11434'
@@ -5035,8 +5035,8 @@ function OnboardImage1Light() {
           y2='176.816'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint26_linear_3383_11434'
@@ -5046,8 +5046,8 @@ function OnboardImage1Light() {
           y2='176.816'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint27_linear_3383_11434'
@@ -5057,8 +5057,8 @@ function OnboardImage1Light() {
           y2='288.009'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint28_linear_3383_11434'
@@ -5068,8 +5068,8 @@ function OnboardImage1Light() {
           y2='288.009'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint29_linear_3383_11434'
@@ -5079,8 +5079,8 @@ function OnboardImage1Light() {
           y2='288.009'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint30_linear_3383_11434'
@@ -5090,8 +5090,8 @@ function OnboardImage1Light() {
           y2='189.718'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint31_linear_3383_11434'
@@ -5101,8 +5101,8 @@ function OnboardImage1Light() {
           y2='189.718'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint32_linear_3383_11434'
@@ -5112,8 +5112,8 @@ function OnboardImage1Light() {
           y2='189.718'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint33_linear_3383_11434'
@@ -5123,8 +5123,8 @@ function OnboardImage1Light() {
           y2='135.827'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint34_linear_3383_11434'
@@ -5134,8 +5134,8 @@ function OnboardImage1Light() {
           y2='135.827'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint35_linear_3383_11434'
@@ -5145,8 +5145,8 @@ function OnboardImage1Light() {
           y2='135.827'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint36_linear_3383_11434'
@@ -5156,8 +5156,8 @@ function OnboardImage1Light() {
           y2='243.823'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint37_linear_3383_11434'
@@ -5167,8 +5167,8 @@ function OnboardImage1Light() {
           y2='243.823'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint38_linear_3383_11434'
@@ -5178,8 +5178,8 @@ function OnboardImage1Light() {
           y2='243.823'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint39_linear_3383_11434'
@@ -5189,8 +5189,8 @@ function OnboardImage1Light() {
           y2='233.606'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint40_linear_3383_11434'
@@ -5200,8 +5200,8 @@ function OnboardImage1Light() {
           y2='233.606'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint41_linear_3383_11434'
@@ -5211,8 +5211,8 @@ function OnboardImage1Light() {
           y2='233.606'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint42_linear_3383_11434'
@@ -5222,8 +5222,8 @@ function OnboardImage1Light() {
           y2='238.427'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint43_linear_3383_11434'
@@ -5233,8 +5233,8 @@ function OnboardImage1Light() {
           y2='238.427'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint44_linear_3383_11434'
@@ -5244,8 +5244,8 @@ function OnboardImage1Light() {
           y2='238.427'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint45_linear_3383_11434'
@@ -5255,8 +5255,8 @@ function OnboardImage1Light() {
           y2='327.247'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint46_linear_3383_11434'
@@ -5266,8 +5266,8 @@ function OnboardImage1Light() {
           y2='327.247'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint47_linear_3383_11434'
@@ -5277,8 +5277,8 @@ function OnboardImage1Light() {
           y2='327.247'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint48_linear_3383_11434'
@@ -5288,8 +5288,8 @@ function OnboardImage1Light() {
           y2='327.247'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint49_linear_3383_11434'
@@ -5299,8 +5299,8 @@ function OnboardImage1Light() {
           y2='327.247'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint50_linear_3383_11434'
@@ -5310,8 +5310,8 @@ function OnboardImage1Light() {
           y2='280.052'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint51_linear_3383_11434'
@@ -5321,8 +5321,8 @@ function OnboardImage1Light() {
           y2='280.052'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint52_linear_3383_11434'
@@ -5332,8 +5332,8 @@ function OnboardImage1Light() {
           y2='280.052'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint53_linear_3383_11434'
@@ -5343,8 +5343,8 @@ function OnboardImage1Light() {
           y2='280.052'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint54_linear_3383_11434'
@@ -5354,8 +5354,8 @@ function OnboardImage1Light() {
           y2='332.848'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint55_linear_3383_11434'
@@ -5365,8 +5365,8 @@ function OnboardImage1Light() {
           y2='332.848'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint56_linear_3383_11434'
@@ -5376,8 +5376,8 @@ function OnboardImage1Light() {
           y2='332.848'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint57_linear_3383_11434'
@@ -5387,8 +5387,8 @@ function OnboardImage1Light() {
           y2='332.848'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint58_linear_3383_11434'
@@ -5398,8 +5398,8 @@ function OnboardImage1Light() {
           y2='380.257'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint59_linear_3383_11434'
@@ -5409,8 +5409,8 @@ function OnboardImage1Light() {
           y2='380.257'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint60_linear_3383_11434'
@@ -5420,8 +5420,8 @@ function OnboardImage1Light() {
           y2='380.257'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint61_linear_3383_11434'
@@ -5431,8 +5431,8 @@ function OnboardImage1Light() {
           y2='380.257'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint62_linear_3383_11434'
@@ -5442,8 +5442,8 @@ function OnboardImage1Light() {
           y2='253.623'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint63_linear_3383_11434'
@@ -5453,8 +5453,8 @@ function OnboardImage1Light() {
           y2='253.623'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint64_linear_3383_11434'
@@ -5464,8 +5464,8 @@ function OnboardImage1Light() {
           y2='253.623'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint65_linear_3383_11434'
@@ -5475,8 +5475,8 @@ function OnboardImage1Light() {
           y2='253.623'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint66_linear_3383_11434'
@@ -5486,8 +5486,8 @@ function OnboardImage1Light() {
           y2='253.623'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint67_linear_3383_11434'
@@ -5497,8 +5497,8 @@ function OnboardImage1Light() {
           y2='253.623'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint68_linear_3383_11434'
@@ -5508,8 +5508,8 @@ function OnboardImage1Light() {
           y2='253.623'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint69_linear_3383_11434'
@@ -5519,8 +5519,8 @@ function OnboardImage1Light() {
           y2='253.623'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint70_linear_3383_11434'
@@ -5530,8 +5530,8 @@ function OnboardImage1Light() {
           y2='321.659'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint71_linear_3383_11434'
@@ -5541,8 +5541,8 @@ function OnboardImage1Light() {
           y2='321.659'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint72_linear_3383_11434'
@@ -5552,8 +5552,8 @@ function OnboardImage1Light() {
           y2='321.659'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint73_linear_3383_11434'
@@ -5563,8 +5563,8 @@ function OnboardImage1Light() {
           y2='321.659'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint74_linear_3383_11434'
@@ -5574,8 +5574,8 @@ function OnboardImage1Light() {
           y2='321.659'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint75_linear_3383_11434'
@@ -5585,8 +5585,8 @@ function OnboardImage1Light() {
           y2='321.659'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint76_linear_3383_11434'
@@ -5596,8 +5596,8 @@ function OnboardImage1Light() {
           y2='266.696'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint77_linear_3383_11434'
@@ -5607,8 +5607,8 @@ function OnboardImage1Light() {
           y2='266.696'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint78_linear_3383_11434'
@@ -5618,8 +5618,8 @@ function OnboardImage1Light() {
           y2='266.696'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint79_linear_3383_11434'
@@ -5629,8 +5629,8 @@ function OnboardImage1Light() {
           y2='266.696'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint80_linear_3383_11434'
@@ -5640,8 +5640,8 @@ function OnboardImage1Light() {
           y2='207.697'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint81_linear_3383_11434'
@@ -5651,8 +5651,8 @@ function OnboardImage1Light() {
           y2='207.697'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint82_linear_3383_11434'
@@ -5662,8 +5662,8 @@ function OnboardImage1Light() {
           y2='207.697'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint83_linear_3383_11434'
@@ -5673,8 +5673,8 @@ function OnboardImage1Light() {
           y2='207.697'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint84_linear_3383_11434'
@@ -5684,8 +5684,8 @@ function OnboardImage1Light() {
           y2='211.989'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint85_linear_3383_11434'
@@ -5695,8 +5695,8 @@ function OnboardImage1Light() {
           y2='211.989'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint86_linear_3383_11434'
@@ -5706,8 +5706,8 @@ function OnboardImage1Light() {
           y2='211.989'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint87_linear_3383_11434'
@@ -5717,8 +5717,8 @@ function OnboardImage1Light() {
           y2='211.989'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint88_linear_3383_11434'
@@ -5728,8 +5728,8 @@ function OnboardImage1Light() {
           y2='315.739'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint89_linear_3383_11434'
@@ -5739,8 +5739,8 @@ function OnboardImage1Light() {
           y2='315.739'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint90_linear_3383_11434'
@@ -5750,8 +5750,8 @@ function OnboardImage1Light() {
           y2='315.739'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint91_linear_3383_11434'
@@ -5761,8 +5761,8 @@ function OnboardImage1Light() {
           y2='315.739'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint92_linear_3383_11434'
@@ -5772,8 +5772,8 @@ function OnboardImage1Light() {
           y2='153.603'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint93_linear_3383_11434'
@@ -5783,8 +5783,8 @@ function OnboardImage1Light() {
           y2='153.603'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint94_linear_3383_11434'
@@ -5794,8 +5794,8 @@ function OnboardImage1Light() {
           y2='153.603'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint95_linear_3383_11434'
@@ -5805,8 +5805,8 @@ function OnboardImage1Light() {
           y2='153.603'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint96_linear_3383_11434'
@@ -5816,8 +5816,8 @@ function OnboardImage1Light() {
           y2='142.793'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint97_linear_3383_11434'
@@ -5827,8 +5827,8 @@ function OnboardImage1Light() {
           y2='142.793'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint98_linear_3383_11434'
@@ -5838,8 +5838,8 @@ function OnboardImage1Light() {
           y2='142.793'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint99_linear_3383_11434'
@@ -5849,8 +5849,8 @@ function OnboardImage1Light() {
           y2='142.793'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint100_linear_3383_11434'
@@ -5860,8 +5860,8 @@ function OnboardImage1Light() {
           y2='200.02'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint101_linear_3383_11434'
@@ -5871,8 +5871,8 @@ function OnboardImage1Light() {
           y2='200.02'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint102_linear_3383_11434'
@@ -5882,8 +5882,8 @@ function OnboardImage1Light() {
           y2='200.02'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint103_linear_3383_11434'
@@ -5893,8 +5893,8 @@ function OnboardImage1Light() {
           y2='200.02'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint104_linear_3383_11434'
@@ -5904,8 +5904,8 @@ function OnboardImage1Light() {
           y2='145.6'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint105_linear_3383_11434'
@@ -5915,8 +5915,8 @@ function OnboardImage1Light() {
           y2='145.6'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint106_linear_3383_11434'
@@ -5926,8 +5926,8 @@ function OnboardImage1Light() {
           y2='145.6'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint107_linear_3383_11434'
@@ -5937,8 +5937,8 @@ function OnboardImage1Light() {
           y2='145.6'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint108_linear_3383_11434'
@@ -5948,8 +5948,8 @@ function OnboardImage1Light() {
           y2='200.756'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint109_linear_3383_11434'
@@ -5959,8 +5959,8 @@ function OnboardImage1Light() {
           y2='200.756'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint110_linear_3383_11434'
@@ -5970,8 +5970,8 @@ function OnboardImage1Light() {
           y2='200.756'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint111_linear_3383_11434'
@@ -5981,8 +5981,8 @@ function OnboardImage1Light() {
           y2='267.14'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint112_linear_3383_11434'
@@ -5992,8 +5992,8 @@ function OnboardImage1Light() {
           y2='267.14'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <linearGradient
           id='paint113_linear_3383_11434'
@@ -6003,8 +6003,8 @@ function OnboardImage1Light() {
           y2='267.14'
           gradientUnits='userSpaceOnUse'
         >
-          <stop stopColor='#391998' stopOpacity='0' />
-          <stop offset='1' stopColor='#391998' stopOpacity='0.4' />
+          <stop stopColor='#7C3AED' stopOpacity='0' />
+          <stop offset='1' stopColor='#7C3AED' stopOpacity='0.4' />
         </linearGradient>
         <clipPath id='clip0_3383_11434'>
           <rect width='390' height='493' fill='white' />

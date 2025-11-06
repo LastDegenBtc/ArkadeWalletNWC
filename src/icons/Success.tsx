@@ -7,7 +7,7 @@ export default function SuccessIcon({ small }: { small?: boolean }) {
     <svg width={size.width} height={size.height} viewBox='0 0 160 154' fill='none' xmlns='http://www.w3.org/2000/svg'>
       <path
         d='M127.106 23.3868H37.7376V31.2557H30.4307L29.8687 120.624H38.2996V128.493L127.106 127.931V121.186H135.537L134.975 31.2557H127.106V23.3868Z'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <path
         d='M127.106 23.3868H37.7376V31.2557H30.4307L29.8687 120.624H38.2996V128.493L127.106 127.931V121.186H135.537L134.975 31.2557H127.106V23.3868Z'
@@ -48,7 +48,7 @@ export default function SuccessIcon({ small }: { small?: boolean }) {
       <path d='M121 38H113V46H121V38Z' fill='#FBFBFB' />
       <path d='M121 106H113V114H121V106Z' fill='#FBFBFB' />
       <path d='M53 106H45V114H53V106Z' fill='#FBFBFB' />
-      <path d='M135.312 120.984H127.219V129.078H135.312V120.984Z' fill='#391998' />
+      <path d='M135.312 120.984H127.219V129.078H135.312V120.984Z' fill='#7C3AED' />
       <path
         d='M1.6962 11.8734C1.6962 12.3418 1.31649 12.7215 0.848101 12.7215C0.379708 12.7215 0 12.3418 0 11.8734C0 11.405 0.379708 11.0253 0.848101 11.0253C1.31649 11.0253 1.6962 11.405 1.6962 11.8734Z'
         fill='#FAFAFA'

@@ -3966,7 +3966,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 123.321 89.6899)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <foreignObject x='48.2885' y='62.2499' width='28.8662' height='28.8662'>
         <div
@@ -3982,7 +3982,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 75.0779 64.6533)'
-        fill='#391998'
+        fill='#7C3AED'
         fillOpacity='0.5'
       />
       <foreignObject x='47.6351' y='111.022' width='28.8662' height='28.8662'>
@@ -3999,7 +3999,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 74.4245 113.425)'
-        fill='#391998'
+        fill='#7C3AED'
         fillOpacity='0.5'
       />
       <foreignObject x='23.2496' y='110.695' width='28.8662' height='28.8662'>
@@ -4016,7 +4016,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 50.039 113.099)'
-        fill='#391998'
+        fill='#7C3AED'
         fillOpacity='0.5'
       />
       <rect
@@ -4024,55 +4024,55 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 147.003 138.752)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 98.9343 89.3633)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 98.6075 113.749)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.0133936 0.99991 0.99991 0.0133936 50.3656 88.7126)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 122.994 114.076)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 74.0977 137.811)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 122.668 138.462)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.0133936 0.99991 0.99991 0.0133936 75.0779 64.6533)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.0133936 0.99991 0.99991 0.0133936 26.3065 64)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         opacity='0.5'
@@ -4081,7 +4081,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 267.662 368.69)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <foreignObject x='313.828' y='341.25' width='28.8662' height='28.8662'>
         <div
@@ -4099,7 +4099,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 315.905 343.653)'
-        fill='#391998'
+        fill='#7C3AED'
         fillOpacity='0.5'
       />
       <foreignObject x='314.482' y='390.022' width='28.8662' height='28.8664'>
@@ -4118,7 +4118,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 316.559 392.425)'
-        fill='#391998'
+        fill='#7C3AED'
         fillOpacity='0.5'
       />
       <foreignObject x='338.867' y='389.695' width='28.8662' height='28.8664'>
@@ -4137,7 +4137,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 340.944 392.099)'
-        fill='#391998'
+        fill='#7C3AED'
         fillOpacity='0.5'
       />
       <rect
@@ -4147,7 +4147,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 243.98 417.752)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='292.049'
@@ -4155,7 +4155,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 292.049 368.363)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='292.376'
@@ -4163,7 +4163,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 292.376 392.749)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='340.617'
@@ -4171,7 +4171,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(89.2326 340.617 367.713)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='267.989'
@@ -4179,7 +4179,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 267.989 393.076)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='316.885'
@@ -4187,7 +4187,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 316.885 416.811)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='268.316'
@@ -4195,7 +4195,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 268.316 417.462)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='315.905'
@@ -4203,7 +4203,7 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(89.2326 315.905 343.653)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='364.677'
@@ -4211,11 +4211,11 @@ function OnboardImage3Dark() {
         width='24.3882'
         height='24.3882'
         transform='rotate(89.2326 364.677 343)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <path
         d='M241.106 198.387H151.737V206.256H144.431L143.869 295.624H152.3V303.493L241.106 302.931V296.186H249.537L248.975 206.256H241.106V198.387Z'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <path
         d='M241.106 198.387H151.737V206.256H144.431L143.869 295.624H152.3V303.493L241.106 302.931V296.186H249.537L248.975 206.256H241.106V198.387Z'
@@ -4238,7 +4238,7 @@ function OnboardImage3Dark() {
       <rect width='8.09374' height='8.09374' transform='matrix(-1 0 0 1 234.743 212.619)' fill='#FBFBFB' />
       <rect width='8.09374' height='8.09374' transform='matrix(-1 0 0 1 234.743 280.607)' fill='#FBFBFB' />
       <rect width='8.09374' height='8.09374' transform='matrix(-1 0 0 1 166.756 280.607)' fill='#FBFBFB' />
-      <rect width='8.09374' height='8.09374' transform='matrix(-1 0 0 1 249.312 295.984)' fill='#391998' />
+      <rect width='8.09374' height='8.09374' transform='matrix(-1 0 0 1 249.312 295.984)' fill='#7C3AED' />
       <circle cx='114.848' cy='186.873' r='0.848101' fill='#FAFAFA' fillOpacity='0.5' />
       <circle cx='131.386' cy='203.411' r='0.424051' fill='#FAFAFA' fillOpacity='0.5' />
       <circle cx='147.924' cy='188.57' r='0.848101' fill='#FAFAFA' fillOpacity='0.5' />
@@ -9021,7 +9021,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 123.321 89.6899)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <foreignObject x='48.2885' y='62.2499' width='28.8662' height='28.8664'>
         <div
@@ -9037,7 +9037,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 75.0779 64.6533)'
-        fill='#391998'
+        fill='#7C3AED'
         fillOpacity='0.5'
       />
       <foreignObject x='47.6351' y='111.022' width='28.8662' height='28.8664'>
@@ -9054,7 +9054,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 74.4245 113.425)'
-        fill='#391998'
+        fill='#7C3AED'
         fillOpacity='0.5'
       />
       <foreignObject x='23.2496' y='110.695' width='28.8662' height='28.8664'>
@@ -9071,7 +9071,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 50.039 113.099)'
-        fill='#391998'
+        fill='#7C3AED'
         fillOpacity='0.5'
       />
       <rect
@@ -9079,55 +9079,55 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 147.003 138.752)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 98.9343 89.3633)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 98.6075 113.749)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.0133936 0.99991 0.99991 0.0133936 50.3656 88.7129)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 122.994 114.076)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 74.0977 137.811)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.99991 -0.0133936 -0.0133936 0.99991 122.668 138.462)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.0133936 0.99991 0.99991 0.0133936 75.0779 64.6533)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         width='24.3882'
         height='24.3882'
         transform='matrix(-0.0133936 0.99991 0.99991 0.0133936 26.3065 64)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         opacity='0.5'
@@ -9136,7 +9136,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 267.662 368.69)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <foreignObject x='313.828' y='341.25' width='28.8662' height='28.8664'>
         <div
@@ -9154,7 +9154,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 315.905 343.653)'
-        fill='#391998'
+        fill='#7C3AED'
         fillOpacity='0.5'
       />
       <foreignObject x='314.482' y='390.022' width='28.8662' height='28.8664'>
@@ -9173,7 +9173,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 316.559 392.425)'
-        fill='#391998'
+        fill='#7C3AED'
         fillOpacity='0.5'
       />
       <foreignObject x='338.867' y='389.695' width='28.8662' height='28.8664'>
@@ -9192,7 +9192,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 340.944 392.099)'
-        fill='#391998'
+        fill='#7C3AED'
         fillOpacity='0.5'
       />
       <rect
@@ -9202,7 +9202,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 243.98 417.752)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='292.049'
@@ -9210,7 +9210,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 292.049 368.363)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='292.376'
@@ -9218,7 +9218,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 292.376 392.749)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='340.617'
@@ -9226,7 +9226,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(89.2326 340.617 367.713)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='267.989'
@@ -9234,7 +9234,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 267.989 393.076)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='316.885'
@@ -9242,7 +9242,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 316.885 416.811)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='268.316'
@@ -9250,7 +9250,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(-0.767422 268.316 417.462)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='315.905'
@@ -9258,7 +9258,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(89.2326 315.905 343.653)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <rect
         x='364.677'
@@ -9266,7 +9266,7 @@ function OnboardImage3Light() {
         width='24.3882'
         height='24.3882'
         transform='rotate(89.2326 364.677 343)'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <circle cx='114.848' cy='186.873' r='0.848101' fill='black' fillOpacity='0.5' />
       <circle cx='131.386' cy='203.411' r='0.424051' fill='black' fillOpacity='0.5' />
@@ -9299,7 +9299,7 @@ function OnboardImage3Light() {
       <circle cx='261.449' cy='326.803' r='1.27215' fill='black' fillOpacity='0.5' />
       <path
         d='M241.106 198.387H151.737V206.256H144.431L143.869 295.624H152.3V303.493L241.106 302.931V296.186H249.537L248.975 206.256H241.106V198.387Z'
-        fill='#391998'
+        fill='#7C3AED'
       />
       <path
         d='M241.106 198.387H151.737V206.256H144.431L143.869 295.624H152.3V303.493L241.106 302.931V296.186H249.537L248.975 206.256H241.106V198.387Z'
@@ -9322,7 +9322,7 @@ function OnboardImage3Light() {
       <rect width='8.09374' height='8.09374' transform='matrix(-1 0 0 1 234.743 212.619)' fill='#FBFBFB' />
       <rect width='8.09374' height='8.09374' transform='matrix(-1 0 0 1 234.743 280.606)' fill='#FBFBFB' />
       <rect width='8.09374' height='8.09374' transform='matrix(-1 0 0 1 166.756 280.606)' fill='#FBFBFB' />
-      <rect width='8.09374' height='8.09374' transform='matrix(-1 0 0 1 249.312 295.984)' fill='#391998' />
+      <rect width='8.09374' height='8.09374' transform='matrix(-1 0 0 1 249.312 295.984)' fill='#7C3AED' />
       <defs>
         <clipPath id='paint0_angular_3383_10956_clip_path'>
           <path

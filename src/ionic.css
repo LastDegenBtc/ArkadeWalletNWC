@@ -11,14 +11,14 @@
   --greenbg: #054a19;
   --grey: #747474;
   --liz: #d5c6ff;
-  --logo-color: #391998;
-  --magenta: #8563e4;
+  --logo-color: #7C3AED;
+  --magenta: #7C3AED;
   --orange: #c3730a;
   --orangebg: #572d00;
-  --purple: #391998;
-  --purple20: #39199833;
-  --purplebg: #391998;
-  --purpletext: #7043f4;
+  --purple: #7C3AED;
+  --purple20: #7C3AED33;
+  --purplebg: #7C3AED;
+  --purpletext: #9333EA;
   --red: #a51515;
   --redbg: #68222b;
   --white: #fbfbfb;
@@ -42,16 +42,18 @@
   --greenbg: #092d13;
   --orange: #e69b39;
   --orangebg: #2e1800;
-  --purplebg: #39199833;
+  --purplebg: #7C3AED33;
+  --purple: #A78BFA;
+  --purpletext: #C4B5FD;
   --red: #e04d4d;
   --redbg: #380008;
   --yellow: #ffdd46;
   --yellowoutlier: #ffdd46;
-  --ion-background-color: #101010;
-  --ion-tabbar-background-color: #181818;
-  --ion-backdrop-color: #000;
-  --logo-color: #fbfbfb;
-  --toggle-background: #ddd;
+  --ion-background-color: #1E1B4B;
+  --ion-tabbar-background-color: #2D2855;
+  --ion-backdrop-color: #0F0D2E;
+  --logo-color: #C4B5FD;
+  --toggle-background: #2D2855;
   --danger: #e04d4d;
 }
 

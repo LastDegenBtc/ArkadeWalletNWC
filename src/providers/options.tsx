@@ -11,6 +11,7 @@ import { SettingsOptions, SettingsSections } from '../lib/types'
 import CogIcon from '../icons/Cog'
 import LockIcon from '../icons/Lock'
 import PuzzleIcon from '../icons/Puzzle'
+import AppsIcon from '../icons/Apps'
 
 export interface Option {
   icon: ReactElement
@@ -93,6 +94,11 @@ export const options: Option[] = [
     icon: <></>,
     option: SettingsOptions.Password,
     section: SettingsSections.Advanced,
+  },
+  {
+    icon: <AppsIcon />,
+    option: SettingsOptions.WalletConnect,
+    section: SettingsSections.General,
   },
 ]
 

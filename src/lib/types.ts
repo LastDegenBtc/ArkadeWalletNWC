@@ -60,6 +60,7 @@ export enum SettingsOptions {
   Theme = 'theme',
   Fiat = 'fiat currency',
   Display = 'display preferences',
+  WalletConnect = 'wallet connect',
 }
 
 export enum Themes {
@@ -100,4 +101,15 @@ export type Wallet = {
   nextRollover: number
   passkeyId?: string
   pubkey?: string
+}
+
+export interface NWCConnection {
+  id: string
+  name?: string
+  clientPubkey: string
+  secret: string
+  relay: string
+  createdAt: number
+  lastUsed?: number
+  permissions: string[]
 }

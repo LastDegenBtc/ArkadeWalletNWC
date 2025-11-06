@@ -18,6 +18,7 @@ import Theme from './Theme'
 import Fiat from './Fiat'
 import Display from './Display'
 import Password from './Password'
+import WalletConnect from './WalletConnect'
 
 export default function Settings() {
   const { option } = useContext(OptionsContext)
@@ -41,6 +42,7 @@ export default function Settings() {
       {option === SettingsOptions.Fiat && <Fiat />}
       {option === SettingsOptions.Display && <Display />}
       {option === SettingsOptions.Password && <Password />}
+      {option === SettingsOptions.WalletConnect && <WalletConnect />}
     </>
   )
 }

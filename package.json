@@ -27,8 +27,8 @@
   },
   "scripts": {
     "prepare": "husky install",
-    "start": "pnpm git-info; pnpm build:worker; vite",
-    "build": "pnpm git-info; pnpm build:worker; vite build",
+    "start": "npm run git-info && npm run build:worker && vite",
+    "build": "npm run git-info && npm run build:worker && vite build",
     "build:worker": "vite build -c vite.worker.config.ts",
     "test": "vitest run",
     "test:ui": "vitest run --ui",

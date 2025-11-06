@@ -14,6 +14,7 @@ import { LimitsProvider } from './providers/limits'
 import { NudgeProvider } from './providers/nudge'
 import * as Sentry from '@sentry/react'
 import { LightningProvider } from './providers/lightning'
+import { NWCProvider } from './providers/nwc'
 import { shouldInitializeSentry } from './lib/sentry'
 
 // Initialize Sentry only in production and when DSN is provided
@@ -36,13 +37,15 @@ root.render(
             <FlowProvider>
               <WalletProvider>
                 <LightningProvider>
-                  <LimitsProvider>
-                    <OptionsProvider>
-                      <NudgeProvider>
-                        <App />
-                      </NudgeProvider>
-                    </OptionsProvider>
-                  </LimitsProvider>
+                  <NWCProvider>
+                    <LimitsProvider>
+                      <OptionsProvider>
+                        <NudgeProvider>
+                          <App />
+                        </NudgeProvider>
+                      </OptionsProvider>
+                    </LimitsProvider>
+                  </NWCProvider>
                 </LightningProvider>
               </WalletProvider>
             </FlowProvider>

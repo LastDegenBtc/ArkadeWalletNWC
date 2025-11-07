@@ -1,0 +1,28 @@
+<svg width='35' height='35' viewBox='0 0 35 35' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <style>
+    .logo-main {
+      fill: #7C3AED;
+    }
+    .logo-accent {
+      fill: #A78BFA;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .logo-main {
+        fill: #C4B5FD;
+      }
+      .logo-accent {
+        fill: #E9D5FF;
+      }
+    }
+  </style>
+  <!-- Main Arkade logo shape -->
+  <path class="logo-main" d='M0 8.75L8.75 0H26.25L35 8.75V17.5H26.25V8.75H8.75V17.5H2.45431e-07L0 8.75Z' />
+  <path class="logo-main" d='M8.75 26.25V17.5H26.25V26.25H8.75Z' />
+  <path class="logo-main" d='M8.75 26.25H2.45431e-07V35H8.75V26.25Z' />
+  <path class="logo-main" d='M26.25 26.25V35H35V26.25H26.25Z' />
+
+  <!-- Small lightning bolt accent for NWC -->
+  <circle class="logo-accent" cx="29" cy="6" r="4" />
+  <path class="logo-main" d="M30 4 L28.5 6 H29.5 L29 8 L30.5 6 H29.5 Z" fill="#7C3AED" stroke="none"/>
+</svg>

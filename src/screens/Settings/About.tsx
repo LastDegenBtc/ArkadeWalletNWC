@@ -8,6 +8,8 @@ import { gitCommit } from '../../_gitCommit'
 import { prettyDelta } from '../../lib/format'
 import FlexCol from '../../components/FlexCol'
 import ErrorMessage from '../../components/Error'
+import Badge from '../../components/Badge'
+import Text from '../../components/Text'
 
 export default function About() {
   const { aspInfo } = useContext(AspContext)
@@ -35,7 +37,19 @@ export default function About() {
       <Header text='About' back />
       <Content>
         <Padded>
-          <FlexCol>
+          <FlexCol gap='1rem'>
+            <FlexCol gap='0.5rem' style={{ alignItems: 'center', padding: '1rem 0' }}>
+              <Text bold style={{ fontSize: '1.1rem' }}>
+                Purple Arkade Wallet
+              </Text>
+              <Badge color='secondary'>NWC Edition</Badge>
+              <Text small color='dark80' centered style={{ marginTop: '0.5rem' }}>
+                Nostr Wallet Connect (NIP-47) enabled
+              </Text>
+              <Text small color='dark80' centered>
+                Native Arkade Zaps • No Lightning Required
+              </Text>
+            </FlexCol>
             <ErrorMessage error={error} text='Ark server unreachable' />
             <Table data={data} />
           </FlexCol>

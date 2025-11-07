@@ -1,0 +1,20 @@
+<svg width="220" height="220" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Purple background -->
+  <rect width="1024" height="1024" fill="#7C3AED" />
+
+  <!-- Main Arkade pattern -->
+  <rect x="512" y="256" width="128" height="128" fill="#F6F6F6" />
+  <rect x="384" y="256" width="128" height="128" fill="#F6F6F6" />
+  <rect x="640" y="384" width="128" height="128" fill="#F6F6F6" />
+  <rect width="128" height="128" transform="matrix(-1 0 0 1 384 384)" fill="#F6F6F6" />
+  <rect width="128" height="128" transform="matrix(-1 0 0 1 512 512)" fill="#F6F6F6" />
+  <rect width="128" height="128" transform="matrix(-1 0 0 1 640 512)" fill="#F6F6F6" />
+  <rect x="640" y="640" width="128" height="128" fill="#F6F6F6" />
+  <rect width="128" height="128" transform="matrix(-1 0 0 1 384 640)" fill="#F6F6F6" />
+  <path d="M640 256L768 384H640V256Z" fill="#F6F6F6" />
+  <path d="M384 256L256 384H384V256Z" fill="#F6F6F6" />
+
+  <!-- NWC Edition Badge - Lightning bolt accent in bottom right corner -->
+  <circle cx="880" cy="880" r="100" fill="#A78BFA" />
+  <path d="M905 830 L865 880 L885 880 L875 930 L915 880 L895 880 Z" fill="#F6F6F6" stroke="#7C3AED" stroke-width="2"/>
+</svg>

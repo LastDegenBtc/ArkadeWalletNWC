@@ -18,6 +18,8 @@ import { NudgeContext } from '../../providers/nudge'
 import { EmptyTxList } from '../../components/Empty'
 import { InfoBox } from '../../components/AlertBox'
 import { psaMessage } from '../../lib/constants'
+import Badge from '../../components/Badge'
+import Text from '../../components/Text'
 
 export default function Wallet() {
   const { aspInfo } = useContext(AspContext)
@@ -47,7 +49,17 @@ export default function Wallet() {
       <Padded>
         <FlexCol>
           <FlexCol gap='0'>
-            <LogoIcon small />
+            <FlexRow gap='0.5rem' style={{ alignItems: 'center', marginBottom: '0.25rem' }}>
+              <LogoIcon small />
+              <FlexCol gap='0.15rem'>
+                <Text bold style={{ fontSize: '0.9rem', margin: 0 }}>
+                  Purple Arkade
+                </Text>
+                <Badge color='secondary' variant='outline'>
+                  NWC Edition
+                </Badge>
+              </FlexCol>
+            </FlexRow>
             <Balance amount={balance} />
             <ErrorMessage error={error} text='Ark server unreachable' />
             <FlexRow padding='0 0 0.5rem 0'>
